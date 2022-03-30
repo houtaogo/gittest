@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("git test002");
         System.out.println("git test003");
         System.out.println("git test004");
+        System.out.println("hot-fix");
     }
 }
